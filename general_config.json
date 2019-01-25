@@ -1,7 +1,8 @@
 {
     "diy_ad_about": {
-        "note_0": "自定义广告图片链接",
+        "note_0": "自定义广告图片链接  奖励, 复活, 安装",
         "diy_ad_img_url_1": "http://t1.g.mi.com/thumbnail/webp/w900q80/Wali/13c52b48f9a2a40fa31693c70c758de41565fcbc6",
-        "diy_ad_img_url_2": "http://t1.g.mi.com/thumbnail/webp/w900q80/Wali/16c52458f2a6a90f551690c70bc58aeb1a943ccdb"
+        "diy_ad_img_url_2": "http://t1.g.mi.com/thumbnail/webp/w900q80/Wali/16c52458f2a6a90f551690c70bc58aeb1a943ccdb",
+        "diy_ad_img_url_3": "http://t1.g.mi.com/thumbnail/webp/w900q80/Wali/1cc52b48f9a2a40f831698c70c958de815651cbc6"
     }
 }
