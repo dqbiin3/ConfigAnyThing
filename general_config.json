@@ -1,6 +1,6 @@
 {
     "diy_ad_about": {
-        "note_0": "自定义广告图片链接  奖励, 复活, 安装",
+        "note_0": "自定义广告图片链接  奖励, 复活, 安装  adRate",
         "diy_ad_img_url_1": "http://t1.g.mi.com/thumbnail/webp/w1080q80/Wali/1e3fc57e6331296cdcba0b5513583358a524305f7",
         "diy_ad_img_url_2": "http://t1.g.mi.com/thumbnail/webp/w1080q80/Wali/1e3fc57e6331296cdcba0b5513583358a524305f7",
         "diy_ad_img_url_3": "http://t1.g.mi.com/thumbnail/webp/w1080q80/Wali/1e3fc57e6331296cdcba0b5513583358a524305f7"
@@ -20,6 +20,7 @@
         "hideCloseBanner": "1",
         "balanceAdRate": "1",
         "bannerAdLoadTime": "6000",
+        "adRate": "100",
         "banenrAdStartTime": "6000",
         "interAndNewsFeedShowSameTime": "0",
         "useJiliNewFeed": "1",
