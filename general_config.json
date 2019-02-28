@@ -1,9 +1,9 @@
 {
     "diy_ad_about": {
         "note_0": "自定义广告图片链接  奖励, 复活, 安装  adRate",
-        "diy_ad_img_url_1": "http://t1.g.mi.com/thumbnail/webp/w1080q80/Wali/1e3fc57e6331296cdcba0b5513583358a524305f7",
-        "diy_ad_img_url_2": "http://t1.g.mi.com/thumbnail/webp/w1080q80/Wali/1e3fc57e6331296cdcba0b5513583358a524305f7",
-        "diy_ad_img_url_3": "http://t1.g.mi.com/thumbnail/webp/w1080q80/Wali/1e3fc57e6331296cdcba0b5513583358a524305f7"
+        "diy_ad_img_url_1": "http://t1.g.mi.com/thumbnail/webp/w900q80/Wali/17bc534103a22451d1dc686eaf3879f276825a557",
+        "diy_ad_img_url_2": "http://t1.g.mi.com/thumbnail/webp/w900q80/Wali/17bc534103a22451d1dc686eaf3879f276825a557",
+        "diy_ad_img_url_3": "http://t1.g.mi.com/thumbnail/webp/w900q80/Wali/17bc534103a22451d1dc686eaf3879f276825a557"
     },
     "ads_control": {
         "note_1": "",
@@ -33,7 +33,7 @@
         "isADCover": "0",
         "startAttach": "1",
         "isBannerAutoHide": "0",
-        "download_game_packagename": "com.skymoons.croods.mi&channel=meng_1242_43_android",
+        "download_game_packagename": "com.cmge.lzjx.mi&channel=meng_1242_43_android",
         "boot_show_video": "0"
     }
 }
