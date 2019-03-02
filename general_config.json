@@ -33,6 +33,8 @@
         "isADCover": "0",
         "startAttach": "1",
         "isBannerAutoHide": "0",
+        "show_dialog_video": "0",
+        "show_dialog_video_delay_time": "1200000",
         "download_game_packagename": "com.cmge.lzjx.mi&channel=meng_1242_43_android",
         "boot_show_video": "0"
     }
