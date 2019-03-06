@@ -21,7 +21,7 @@
         "balanceAdRate": "1",
         "bannerAdLoadTime": "6000",
         "adRate": "100",
-        "banenrAdStartTime": "6000",
+        "banenrAdStartTime": "30000",
         "interAndNewsFeedShowSameTime": "0",
         "useJiliNewFeed": "1",
         "isNeedSplashInter": "0",
