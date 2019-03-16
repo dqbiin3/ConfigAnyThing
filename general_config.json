@@ -25,7 +25,7 @@
         "interAndNewsFeedShowSameTime": "0",
         "useJiliNewFeed": "1",
         "isNeedSplashInter": "0",
-        "bannerCloseBtUnuseRate": "100",
+        "bannerCloseBtUnuseRate": "20",
         "inter_interval_release_time": "3000",
         "needOpenLocCheck": "1",
         "auto_show_inter_interval_time": "300000",
