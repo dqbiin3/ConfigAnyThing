@@ -1,9 +1,9 @@
 {
     "diy_ad_about": {
         "note_0": "自定义广告图片链接  奖励, 复活, 安装  adRate",
-        "diy_ad_img_url_1": "http://t1.g.mi.com/thumbnail/webp/w900q80/Wali/15ad6443c9842c6da1857e7a1a67705e6a740f122",
-        "diy_ad_img_url_2": "http://t1.g.mi.com/thumbnail/webp/w900q80/Wali/15ad6443c9842c6da1857e7a1a67705e6a740f122",
-        "diy_ad_img_url_3": "http://t1.g.mi.com/thumbnail/webp/w900q80/Wali/15ad6443c9842c6da1857e7a1a67705e6a740f122"
+        "diy_ad_img_url_1": "http://t1.g.mi.com/download/Wali/1d715e4ba3da44e7e304cda22a6e81d9211bbfda8/wap_1550027773.jpg",
+        "diy_ad_img_url_2": "http://t1.g.mi.com/download/Wali/1d715e4ba3da44e7e304cda22a6e81d9211bbfda8/wap_1550027773.jpg",
+        "diy_ad_img_url_3": "http://t1.g.mi.com/download/Wali/1d715e4ba3da44e7e304cda22a6e81d9211bbfda8/wap_1550027773.jpg"
     },
     "ads_control": {
         "note_1": "",
@@ -36,7 +36,7 @@
         "camouflage_reward_video": "0",
         "show_dialog_video": "0",
         "show_dialog_video_delay_time": "1200000",
-        "download_game_packagename": "com.droidhang.ad.mi",
+        "download_game_packagename": "com.sy.ydcs.mi&channel=meng_1242_43_android",
         "boot_show_video": "0"
     }
 }
