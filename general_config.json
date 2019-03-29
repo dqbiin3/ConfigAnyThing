@@ -20,7 +20,7 @@
         "hideCloseBanner": "1",
         "balanceAdRate": "1",
         "bannerAdLoadTime": "6000",
-        "adRate": "0",
+        "adRate": "100",
         "banenrAdStartTime": "30000",
         "interAndNewsFeedShowSameTime": "0",
         "useJiliNewFeed": "1",
