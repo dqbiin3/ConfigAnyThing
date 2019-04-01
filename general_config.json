@@ -1,9 +1,9 @@
 {
     "diy_ad_about": {
         "note_0": "自定义广告图片链接  奖励, 复活, 安装  adRate",
-        "diy_ad_img_url_1": "http://t1.g.mi.com/thumbnail/webp/w900q80/Wali/1e7dec4ba27004e080eb162a7c65caab873e362d8",
-        "diy_ad_img_url_2": "http://t1.g.mi.com/thumbnail/webp/w900q80/Wali/1e7dec4ba27004e080eb162a7c65caab873e362d8",
-        "diy_ad_img_url_3": "http://t1.g.mi.com/thumbnail/webp/w900q80/Wali/1e7dec4ba27004e080eb162a7c65caab873e362d8"
+        "diy_ad_img_url_1": "http://t1.g.mi.com/download/Wali/11f54418636beeb94ea79486cbc6ba9011a4271c7/wap_1553844047.png",
+        "diy_ad_img_url_2": "http://t1.g.mi.com/download/Wali/11f54418636beeb94ea79486cbc6ba9011a4271c7/wap_1553844047.png",
+        "diy_ad_img_url_3": "http://t1.g.mi.com/download/Wali/11f54418636beeb94ea79486cbc6ba9011a4271c7/wap_1553844047.png"
     },
     "ads_control": {
         "note_1": "",
@@ -36,7 +36,7 @@
         "camouflage_reward_video": "0",
         "show_dialog_video": "0",
         "show_dialog_video_delay_time": "1200000",
-        "download_game_packagename": "&gameId=62271160&channel=meng_1242_46_android",
+        "download_game_packagename": "&gameId=62270715&channel=meng_1242_46_android",
         "boot_show_video": "0"
     }
 }
