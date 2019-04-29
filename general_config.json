@@ -40,6 +40,6 @@
         "goto_comment": "pkgname=com.zb.zombie8.xsl&tab=comment&channel=elm_xsl",
         "boot_show_video": "0"
         "newFeed_interval_release_time": "90000"
-        "review_start_time": "300000"
+        "review_start_time": "1000"
     }
 }
