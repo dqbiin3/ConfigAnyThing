@@ -38,8 +38,9 @@
         "show_dialog_video_delay_time": "1200000",
         "download_game_packagename": "&gameId=62270715&channel=meng_1242_43_android",
         "goto_comment": "pkgname=com.zb.zombie8.xsl&tab=comment&channel=elm_xsl",
-        "boot_show_video": "0"
-        "newFeed_interval_release_time": "90000"
+        "boot_show_video": "0",
+        "newFeed_interval_release_time": "90000",
+        "review_interval_time": "90000",
         "review_start_time": "1000"
     }
 }
