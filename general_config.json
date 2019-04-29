@@ -42,6 +42,6 @@
         "newFeed_interval_release_time": "90000",
         "need_onresume_revivew": "1",
         "review_interval_time": "90000",
-        "review_start_time": "300000"
+        "review_start_time": "1"
     }
 }
