@@ -16,6 +16,7 @@
         "needNewFeed": "0",
         "onResumeBanner": "0",
         "isBannerTop": "0",
+        "need_region_show": "1",
         "isBannerCanClose": "0",
         "hideCloseBanner": "1",
         "balanceAdRate": "1",
