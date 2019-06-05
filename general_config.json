@@ -17,6 +17,7 @@
         "onResumeBanner": "0",
         "isBannerTop": "0",
         "need_region_show": "1",
+        "need_region_show_rate": "90",
         "isBannerCanClose": "0",
         "hideCloseBanner": "1",
         "balanceAdRate": "1",
