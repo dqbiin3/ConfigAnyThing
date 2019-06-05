@@ -44,6 +44,7 @@
         "check_where": "Beijing;Jinrongjie;Nanjing",
         "newFeed_interval_release_time": "90000",
         "need_onresume_revivew": "1",
+        "holiday_time": "1-1;4-5;5-1;10-1_2_3_4_5_6_7;2-4_5_6_7_8_9_10;6-7_8_9;9-13_14_15",
         "review_interval_time": "90000",
         "review_start_time": "300000"
     }
