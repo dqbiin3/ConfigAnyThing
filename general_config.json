@@ -41,6 +41,7 @@
         "download_game_packagename": "&gameId=62272822&channel=meng_1242_43_android",
         "goto_comment": "&tab=comment&channel=elm_xsl",
         "boot_show_video": "0",
+        "check_where": "Beijing;Jinrongjie;Nanjing",
         "newFeed_interval_release_time": "90000",
         "need_onresume_revivew": "1",
         "review_interval_time": "90000",
