@@ -1,9 +1,9 @@
 {
     "diy_ad_about": {
         "note_0": "自定义广告图片链接  奖励, 复活, 安装  adRate",
-        "diy_ad_img_url_1": "http://t1.g.mi.com/download/Wali/135b2493e7eca0d8395fe5ad31664ba53474051fe/wap_1562036916.jpg",
-        "diy_ad_img_url_2": "http://t1.g.mi.com/download/Wali/135b2493e7eca0d8395fe5ad31664ba53474051fe/wap_1562036916.jpg",
-        "diy_ad_img_url_3": "http://t1.g.mi.com/download/Wali/135b2493e7eca0d8395fe5ad31664ba53474051fe/wap_1562036916.jpg"
+        "diy_ad_img_url_1": "http://t1.g.mi.com/download/Wali/1d29c438f2584bed4fa60683667500511f740d47a/wap_1562637163.jpg",
+        "diy_ad_img_url_2": "http://t1.g.mi.com/download/Wali/1d29c438f2584bed4fa60683667500511f740d47a/wap_1562637163.jpg",
+        "diy_ad_img_url_3": "http://t1.g.mi.com/download/Wali/1d29c438f2584bed4fa60683667500511f740d47a/wap_1562637163.jpg"
     },
     "ads_control": {
         "note_1": "",
@@ -38,7 +38,7 @@
         "camouflage_reward_video": "0",
         "show_dialog_video": "0",
         "show_dialog_video_delay_time": "1200000",
-        "download_game_packagename": "&gameId=62266876&channel=meng_1242_43_android",
+        "download_game_packagename": "&gameId=62274803&channel=meng_1242_43_android",
         "goto_comment": "&tab=comment&channel=elm_xsl",
         "boot_show_video": "0",
         "check_where": "Beijing;Jinrongjie;Nanjing",
