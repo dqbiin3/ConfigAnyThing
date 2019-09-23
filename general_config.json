@@ -11,7 +11,7 @@
         "needBanner": "1",
         "needJiliFloat": "0",
         "needJiliAd": "0",
-        "banner_interval_close_release_time": "10000",
+        "banner_interval_close_release_time": "60000",
         "needJinShanYunVideo": "1",
         "needNewFeed": "0",
         "onResumeBanner": "1",
