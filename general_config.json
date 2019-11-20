@@ -7,7 +7,7 @@
     },
     "ads_control": {
         "note_1": "",
-        "needInter": "0",
+        "needInter": "1",
         "needBanner": "1",
         "needJiliFloat": "0",
         "needJiliAd": "0",
