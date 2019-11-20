@@ -46,7 +46,10 @@
         "need_onresume_revivew": "1",
         "holiday_time2": "",
         "holiday_time": "",
-        "review_interval_time": "90000",
+        "isNeedSplashInter": "1",
+        "isNeedOnresumeInter": "0",
+        "isNeedRewardInter": "1",
+        "fixTimeInter": "180000",
         "review_start_time": "300000"
     }
 }
