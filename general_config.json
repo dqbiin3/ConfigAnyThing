@@ -50,6 +50,7 @@
         "isNeedOnresumeInter": "0",
         "isNeedRewardInter": "1",
         "fixTimeInter": "180000",
+        "loop_video": "1",
         "review_start_time": "300000"
     }
 }
