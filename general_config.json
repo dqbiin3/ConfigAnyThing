@@ -18,7 +18,7 @@
         "isBannerTop": "0",
         "need_region_show": "1",
         "need_region_show_rate": "80",
-        "isBannerCanClose": "0",
+        "isBannerCanClose": "1",
         "hideCloseBanner": "1",
         "balanceAdRate": "1",
         "bannerAdLoadTime": "6000",
