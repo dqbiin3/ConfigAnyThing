@@ -1,9 +1,9 @@
 {
     "diy_ad_about": {
         "note_0": "自定义广告图片链接  奖励, 复活, 安装  adRate 1-1;4-5;5-1;10-1_2_3_4_5_6_7;2-4_5_6_7_8_9_10;6-7_8_9;9-13_14_15",
-        "diy_ad_img_url_1": "https://t1.g.mi.com/thumbnail/webp/w900q80/Wali/1e0f704ac0b8d4584005810f06ed77e37981778d7",
-        "diy_ad_img_url_2": "https://t1.g.mi.com/thumbnail/webp/w900q80/Wali/1e0f704ac0b8d4584005810f06ed77e37981778d7",
-        "diy_ad_img_url_3": "https://t1.g.mi.com/thumbnail/webp/w900q80/Wali/1e0f704ac0b8d4584005810f06ed77e37981778d7"
+        "diy_ad_img_url_1": "https://t1.g.mi.com/thumbnail/webp/w900q80/Wali/14b1e55247b779c855620a29fb13291c4d24381be",
+        "diy_ad_img_url_2": "https://t1.g.mi.com/thumbnail/webp/w900q80/Wali/14b1e55247b779c855620a29fb13291c4d24381be",
+        "diy_ad_img_url_3": "https://t1.g.mi.com/thumbnail/webp/w900q80/Wali/14b1e55247b779c855620a29fb13291c4d24381be"
     },
     "ads_control": {
         "note_1": "",
@@ -38,7 +38,7 @@
         "camouflage_reward_video": "0",
         "show_dialog_video": "0",
         "show_dialog_video_delay_time": "1200000",
-        "download_game_packagename": "gameId=62265867&channel=meng_1242_43_android",
+        "download_game_packagename": "?gameId=62285671&channel=meng_1242_43_android",
         "goto_comment": "&tab=comment&channel=elm_xsl",
         "boot_show_video": "0",
         "check_where": "Beijing;Jinrongjie;Nanjing",
