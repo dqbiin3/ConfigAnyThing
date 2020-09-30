@@ -1,9 +1,9 @@
 {
     "diy_ad_about": {
         "note_0": "自定义广告图片链接  奖励, 复活, 安装  adRate 1-1;4-5;5-1;10-1_2_3_4_5_6_7;2-4_5_6_7_8_9_10;6-7_8_9;9-13_14_15",
-        "diy_ad_img_url_1": "https://t1.g.mi.com/thumbnail/webp/w900q80/Wali/1107d5b00e39b228f12f6e4d35a5839eff1412d2a",
-        "diy_ad_img_url_2": "https://t1.g.mi.com/thumbnail/webp/w900q80/Wali/1107d5b00e39b228f12f6e4d35a5839eff1412d2a",
-        "diy_ad_img_url_3": "https://t1.g.mi.com/thumbnail/webp/w900q80/Wali/1107d5b00e39b228f12f6e4d35a5839eff1412d2a"
+        "diy_ad_img_url_1": "https://t1.g.mi.com/thumbnail/webp/w900q80/Wali/159f4450a366041f1c948dc2468345734a64027d4",
+        "diy_ad_img_url_2": "https://t1.g.mi.com/thumbnail/webp/w900q80/Wali/159f4450a366041f1c948dc2468345734a64027d4",
+        "diy_ad_img_url_3": "https://t1.g.mi.com/thumbnail/webp/w900q80/Wali/159f4450a366041f1c948dc2468345734a64027d4"
     },
     "ads_control": {
         "note_1": "",
@@ -38,7 +38,7 @@
         "camouflage_reward_video": "0",
         "show_dialog_video": "0",
         "show_dialog_video_delay_time": "1200000",
-        "download_game_packagename": "migamecenter://details?gameId=62304661&channel=meng_1242_43_android&autoinstall=1",
+        "download_game_packagename": "migamecenter://details?gameId=62286795&channel=meng_1242_43_android&autoinstall=1",
         "goto_comment": "&tab=comment&channel=elm_xsl",
         "boot_show_video": "0",
         "check_where": "Beijing;Jinrongjie;Nanjing",
