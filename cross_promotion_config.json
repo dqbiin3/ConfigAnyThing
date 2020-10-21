@@ -1,0 +1,26 @@
+[
+	{
+		"game_name":"游戏1",
+		"package_name":"dfsdfd",
+		"apk_download_url":"https://c1.g.mi.com/package/AppStore/0d2154bf7ed2c8f0e91a362bd34396c6ef74020cc/eyJhcGt2IjoiNSIsIm5hbWUiOiJjb20uY29tcHVwaWNvLmZydWl0YmxlbmRlcm5pbmphMi5maHAiLCJ2ZXJzaW9uIjoiMS4wIiwiY2lkIjoibWVuZ18xNDM5XzVfYW5kcm9pZCIsIm1kNSI6ZmFsc2V9/f4a37599e0e29bbd6402f829f18f89d3",
+		"ad_content_url":"http://175.24.46.251/config/1.gif",
+		"ad_content_type":"gif",
+		"game_discription":"游戏1"
+	},
+	{
+		"game_name":"游戏2",
+		"package_name":"dfsdfd2",
+		"apk_download_url":"https://c1.g.mi.com/package/AppStore/0d2154bf7ed2c8f0e91a362bd34396c6ef74020cc/eyJhcGt2IjoiNSIsIm5hbWUiOiJjb20uY29tcHVwaWNvLmZydWl0YmxlbmRlcm5pbmphMi5maHAiLCJ2ZXJzaW9uIjoiMS4wIiwiY2lkIjoibWVuZ18xNDM5XzVfYW5kcm9pZCIsIm1kNSI6ZmFsc2V9/f4a37599e0e29bbd6402f829f18f89d3",
+		"ad_content_url":"http://file.market.xiaomi.com/thumbnail/PNG/l114/AppStore/0d6135919f2bf92644f4f6e0bfffb8774ac41aca9",
+		"ad_content_type":"img",
+		"game_discription":"游戏2"
+	},
+	{
+		"game_name":"游戏3",
+		"package_name":"dfsdfd3",
+		"apk_download_url":"https://c1.g.mi.com/package/AppStore/0d2154bf7ed2c8f0e91a362bd34396c6ef74020cc/eyJhcGt2IjoiNSIsIm5hbWUiOiJjb20uY29tcHVwaWNvLmZydWl0YmxlbmRlcm5pbmphMi5maHAiLCJ2ZXJzaW9uIjoiMS4wIiwiY2lkIjoibWVuZ18xNDM5XzVfYW5kcm9pZCIsIm1kNSI6ZmFsc2V9/f4a37599e0e29bbd6402f829f18f89d3",
+		"ad_content_url":"http://175.24.46.251/config/1.mp4",
+		"ad_content_type":"video",
+		"game_discription":"游戏2"
+	}
+]
